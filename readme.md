@@ -12,7 +12,7 @@
 
 ## 使用方法
 
-下载github上的资源包
+下载资源包（别告诉我不会用这个链接）：1xxWfF36J2RUbTVsNe8dMiw BYJG
 
 备份 **sdcard\Android\data\com.tencent.baiyeint\files\H3D_Mobile\abs\manifest** 文件，恢复的话替换回去就行
 
