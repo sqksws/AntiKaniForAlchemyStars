@@ -28,15 +28,7 @@
 
 如果出现白屏，部分功能卡死等现象，应该是部分资源文件复制失败的问题，资源包几百个文件有时候是会这样的，推荐多复制几次，后续会尝试其它替换资源的方式
 
-参考用替换前替换后abs文件夹的资源文件数量：
-
-替换前：
-
-![before](https://github.com/IrisuM/AntiKaniForAlchemyStars/blob/master/pict/before.png "before")
-
-反和谐包：
-
-![package](https://github.com/IrisuM/AntiKaniForAlchemyStars/blob/master/pict/package.png "package")
+参考用替换后abs文件夹的资源文件数量：
 
 替换后：
 
