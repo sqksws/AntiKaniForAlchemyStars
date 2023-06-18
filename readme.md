@@ -8,7 +8,7 @@
 
 ### 没有反和谐，哪个瓜玩国服啊
 
-![image text](https://github.com/IrisuM/AntiKaniForAlchemyStars/blob/master/pict/1500921_cg_scale.png "PACT全身照")
+![PACT全身照](https://github.com/IrisuM/AntiKaniForAlchemyStars/blob/master/pict/1500921_cg_scale.png "PACT全身照")
 
 ## 使用方法
 
@@ -31,3 +31,5 @@
 如果出现部分光灵反和谐不完全，请发布issue，应该是我提取的海外资源未完全的原因
 
 最后，低调使用
+
+![这种东西小范围享受一下就行了](https://github.com/IrisuM/AntiKaniForAlchemyStars/blob/master/pict/这种东西小范围享受一下就行了.jpg "这种东西小范围享受一下就行了")
