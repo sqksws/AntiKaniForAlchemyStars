@@ -61,4 +61,4 @@
 
 最后，低调使用
 
-![这种东西小范围享受一下就行了](https://github.com/IrisuM/AntiKaniForAlchemyStars/blob/master/pict/这种东西小范围享受一下就行了.jpg "这种东西小范围享受一下就行了")
+![这种东西小范围享受一下就行了](https://github.com/IrisuM/AntiKaniForAlchemyStars/blob/master/pict/%E8%BF%99%E7%A7%8D%E4%B8%9C%E8%A5%BF%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BA%AB%E5%8F%97%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%EF%BC%88%E5%8D%A1%E6%88%8E%E7%89%88.png "这种东西小范围享受一下就行了")
