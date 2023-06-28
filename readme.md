@@ -14,9 +14,9 @@
 
 备份 **sdcard\Android\data\com.tencent.baiyeint\files\H3D_Mobile\abs\manifest** 文件，恢复的话替换回去就行
 
-### 云盘版，建议先看云盘里的rm：
+### 云盘版，建议先看云盘里的rm（由于现在有复数人维护，云盘只提供out，不再提供manifest）：
 
-下载云盘里的压缩包和最新的manifest文件，删除manifest文件后缀
+下载云盘里的压缩包和git上的manifest文件
 
 将压缩包和manifest复制到手机上，在手机上解压
 
