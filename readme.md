@@ -1,4 +1,4 @@
-# 白夜极光反和谐资源包 当前适配资源号2.8
+# 白夜极光反和谐资源包 当前适配资源号2.10
 
 ## 注意：
 
@@ -43,7 +43,7 @@ rMRvmiqIVzmm
 
 备份 **sdcard\Android\data\com.tencent.baiyeint\files\H3D_Mobile\abs\manifest** 文件，恢复的话替换回去就行
 
-将out文件夹内所有文件覆盖到 **sdcard\Android\data\com.tencent.baiyeint\files\H3D_Mobile\abs** 文件夹内，部分系统可能有不同
+将out文件夹内所有文件覆盖到 **sdcard\Android\data\com.tencent.baiyei\files\H3D_Mobile\abs** 文件夹内，部分系统可能有不同
 
 苹果系统的用户自己找找，没准有类似的目录，我穷，用不起苹果没法测试
 
